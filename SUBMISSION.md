@@ -16,7 +16,7 @@ Adam Brown 1886478
 ![POM without coordinates](figures/commentedOut.png)
 
 - Travis CI dashboard showing unsuccessful build after broken POM.xml
-![Third Build](firgures/thirdBuild.png)
+![Third Build](figures/thirdBuild.png)
 
 - readme.md showing failed build
 ![readme fail](figures/gitHubFail.png)
