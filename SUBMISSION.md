@@ -29,3 +29,18 @@ Adam Brown 1886478
 
 - readme.md showing build success status
 ![readme pass](figures/gitHubPass.png)
+
+Homework 8
+
+Docker
+
+[Dockerfile](https://github.com/brownad8/spring-petclinic/blob/master/Dockerfile)
+
+- Running Docker instance
+![instance](dockerImages/dockerInstance.png)
+
+- Browser access from local container
+![browser](dockerImages/dockerBrowser.png)
+
+
+
